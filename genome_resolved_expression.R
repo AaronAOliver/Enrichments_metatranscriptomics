@@ -7,15 +7,15 @@ options(scipen = 999)
 setwd("Enrichments_metatranscriptomics")
 
 # Import Expression data, protein and MAG descriptions
-mapping_rate = read.csv("mapping_rate.tab", sep = "\t")
-tax_table = read.csv("bin_taxonomy.tab", sep = "\t")
+mapping_rate = read.csv("data/mapping_rate.tab", sep = "\t")
+tax_table = read.csv("data/bin_taxonomy.tab", sep = "\t")
 parent_bin = unique.data.frame(tax_table[c("taxonomy", "parent_bin")])
 
-rsem = left_join(read.csv("binned_expression_fixed.tab", sep = "\t"),
-                 read.csv("cazyme.tab", sep = "\t"), by= "protein") %>%
-       left_join(., read.csv("sulfatase.tab", sep = "\t"), by = "protein") %>%
-       left_join(., read.csv("camper.tab", sep = "\t"), by = "protein") %>%
-       left_join(., read.csv("protein_bins.tab", sep = "\t"), by = "protein") %>%
+rsem = left_join(read.csv("data/binned_expression_fixed.tab", sep = "\t"),
+                 read.csv("data/cazyme.tab", sep = "\t"), by= "protein") %>%
+       left_join(., read.csv("data/sulfatase.tab", sep = "\t"), by = "protein") %>%
+       left_join(., read.csv("data/camper.tab", sep = "\t"), by = "protein") %>%
+       left_join(., read.csv("data/protein_bins.tab", sep = "\t"), by = "protein") %>%
        left_join(., tax_table, by = "bin")
   
 # Order the x-axis samples and categories of protein regex
@@ -234,7 +234,7 @@ dev.off()
 }
 
 ##### Expression based on metaSPAdes assembled metatranscripts
-assembled_rsem = read.csv("assembled_expression.tab", sep = "\t")  %>% 
+assembled_rsem = read.csv("data/assembled_expression.tab", sep = "\t")  %>% 
   pivot_longer(
     cols = c("CAZyme", "Sulfatase"),
     names_to = "Annotation",
