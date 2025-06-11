@@ -1,0 +1,457 @@
+cat	name	sample	timepoint	microcosm	tpm
+A	A: RNA processing and modification	M30_T03	3	m30	4.102722
+A	A: RNA processing and modification	M30_T08	8	m30	0.570648
+A	A: RNA processing and modification	M30_T16	16	m30	0.589638
+A	A: RNA processing and modification	M36_T03	3	m36	34.96632
+A	A: RNA processing and modification	M36_T08	8	m36	20.091535
+A	A: RNA processing and modification	M36_T16	16	m36	0.0427
+A	A: RNA processing and modification	M75_T03	3	m75	80.948082
+A	A: RNA processing and modification	M75_T08	8	m75	6.6248
+A	A: RNA processing and modification	M75_T16	16	m75	8.579998
+A	A: RNA processing and modification	M78_T03	3	m78	35.816264
+A	A: RNA processing and modification	M78_T08	8	m78	6.557131
+A	A: RNA processing and modification	M78_T16	16	m78	0.199818
+A	A: RNA processing and modification	FISH_1	Fish	Fish	0.04182
+A	A: RNA processing and modification	FISH_2	Fish	Fish	0.041265
+A	A: RNA processing and modification	FISH_3	Fish	Fish	0
+A	A: RNA processing and modification	FISH_4	Fish	Fish	0
+A	A: RNA processing and modification	FISH_5	Fish	Fish	1.61766
+A	A: RNA processing and modification	FISH_6	Fish	Fish	1.018575
+A	A: RNA processing and modification	T0_AVG	0	T0	0.243355
+C	C: Energy production and conversion	M30_T03	3	m30	10295.03807
+C	C: Energy production and conversion	M30_T08	8	m30	5761.140255
+C	C: Energy production and conversion	M30_T16	16	m30	2575.485759
+C	C: Energy production and conversion	M36_T03	3	m36	13014.97505
+C	C: Energy production and conversion	M36_T08	8	m36	10643.64201
+C	C: Energy production and conversion	M36_T16	16	m36	2804.149565
+C	C: Energy production and conversion	M75_T03	3	m75	20170.35986
+C	C: Energy production and conversion	M75_T08	8	m75	9745.254025
+C	C: Energy production and conversion	M75_T16	16	m75	8243.482464
+C	C: Energy production and conversion	M78_T03	3	m78	12748.6692
+C	C: Energy production and conversion	M78_T08	8	m78	5255.694798
+C	C: Energy production and conversion	M78_T16	16	m78	2165.888031
+C	C: Energy production and conversion	FISH_1	Fish	Fish	5319.398056
+C	C: Energy production and conversion	FISH_2	Fish	Fish	4912.997145
+C	C: Energy production and conversion	FISH_3	Fish	Fish	2060.58364
+C	C: Energy production and conversion	FISH_4	Fish	Fish	3356.67761
+C	C: Energy production and conversion	FISH_5	Fish	Fish	2293.069416
+C	C: Energy production and conversion	FISH_6	Fish	Fish	4203.542832
+C	C: Energy production and conversion	T0_AVG	0	T0	4021.546203
+D	D: Cell cycle control, cell division, chromosome partitioning	M30_T03	3	m30	937.8642
+D	D: Cell cycle control, cell division, chromosome partitioning	M30_T08	8	m30	398.705775
+D	D: Cell cycle control, cell division, chromosome partitioning	M30_T16	16	m30	267.362655
+D	D: Cell cycle control, cell division, chromosome partitioning	M36_T03	3	m36	2748.102291
+D	D: Cell cycle control, cell division, chromosome partitioning	M36_T08	8	m36	1675.613704
+D	D: Cell cycle control, cell division, chromosome partitioning	M36_T16	16	m36	258.19836
+D	D: Cell cycle control, cell division, chromosome partitioning	M75_T03	3	m75	4588.493358
+D	D: Cell cycle control, cell division, chromosome partitioning	M75_T08	8	m75	1958.3382
+D	D: Cell cycle control, cell division, chromosome partitioning	M75_T16	16	m75	779.614598
+D	D: Cell cycle control, cell division, chromosome partitioning	M78_T03	3	m78	2678.4568
+D	D: Cell cycle control, cell division, chromosome partitioning	M78_T08	8	m78	921.797161
+D	D: Cell cycle control, cell division, chromosome partitioning	M78_T16	16	m78	369.518334
+D	D: Cell cycle control, cell division, chromosome partitioning	FISH_1	Fish	Fish	633.553484
+D	D: Cell cycle control, cell division, chromosome partitioning	FISH_2	Fish	Fish	587.594343
+D	D: Cell cycle control, cell division, chromosome partitioning	FISH_3	Fish	Fish	200.64755
+D	D: Cell cycle control, cell division, chromosome partitioning	FISH_4	Fish	Fish	346.173102
+D	D: Cell cycle control, cell division, chromosome partitioning	FISH_5	Fish	Fish	439.135752
+D	D: Cell cycle control, cell division, chromosome partitioning	FISH_6	Fish	Fish	916.992138
+D	D: Cell cycle control, cell division, chromosome partitioning	T0_AVG	0	T0	537.3919898
+E	E: Amino acid transport and metabolism	M30_T03	3	m30	7050.774198
+E	E: Amino acid transport and metabolism	M30_T08	8	m30	3219.566103
+E	E: Amino acid transport and metabolism	M30_T16	16	m30	1718.60388
+E	E: Amino acid transport and metabolism	M36_T03	3	m36	17068.5832
+E	E: Amino acid transport and metabolism	M36_T08	8	m36	13081.47452
+E	E: Amino acid transport and metabolism	M36_T16	16	m36	1986.034645
+E	E: Amino acid transport and metabolism	M75_T03	3	m75	30234.83838
+E	E: Amino acid transport and metabolism	M75_T08	8	m75	14758.73198
+E	E: Amino acid transport and metabolism	M75_T16	16	m75	5276.579406
+E	E: Amino acid transport and metabolism	M78_T03	3	m78	16996.62716
+E	E: Amino acid transport and metabolism	M78_T08	8	m78	5677.58514
+E	E: Amino acid transport and metabolism	M78_T16	16	m78	1076.542983
+E	E: Amino acid transport and metabolism	FISH_1	Fish	Fish	3625.824668
+E	E: Amino acid transport and metabolism	FISH_2	Fish	Fish	2873.358978
+E	E: Amino acid transport and metabolism	FISH_3	Fish	Fish	1461.38314
+E	E: Amino acid transport and metabolism	FISH_4	Fish	Fish	2501.793646
+E	E: Amino acid transport and metabolism	FISH_5	Fish	Fish	1924.794696
+E	E: Amino acid transport and metabolism	FISH_6	Fish	Fish	7808.949753
+E	E: Amino acid transport and metabolism	T0_AVG	0	T0	3129.949351
+F	F: Nucleotide transport and metabolism	M30_T03	3	m30	2602.812654
+F	F: Nucleotide transport and metabolism	M30_T08	8	m30	1251.619746
+F	F: Nucleotide transport and metabolism	M30_T16	16	m30	656.472831
+F	F: Nucleotide transport and metabolism	M36_T03	3	m36	6109.352754
+F	F: Nucleotide transport and metabolism	M36_T08	8	m36	5257.456992
+F	F: Nucleotide transport and metabolism	M36_T16	16	m36	578.02136
+F	F: Nucleotide transport and metabolism	M75_T03	3	m75	10370.08135
+F	F: Nucleotide transport and metabolism	M75_T08	8	m75	5450.989375
+F	F: Nucleotide transport and metabolism	M75_T16	16	m75	1509.659032
+F	F: Nucleotide transport and metabolism	M78_T03	3	m78	6145.536808
+F	F: Nucleotide transport and metabolism	M78_T08	8	m78	2367.700532
+F	F: Nucleotide transport and metabolism	M78_T16	16	m78	345.101358
+F	F: Nucleotide transport and metabolism	FISH_1	Fish	Fish	1640.590236
+F	F: Nucleotide transport and metabolism	FISH_2	Fish	Fish	1475.375055
+F	F: Nucleotide transport and metabolism	FISH_3	Fish	Fish	627.11613
+F	F: Nucleotide transport and metabolism	FISH_4	Fish	Fish	1020.876868
+F	F: Nucleotide transport and metabolism	FISH_5	Fish	Fish	899.491692
+F	F: Nucleotide transport and metabolism	FISH_6	Fish	Fish	3320.014278
+F	F: Nucleotide transport and metabolism	T0_AVG	0	T0	1477.639448
+G	G: Carbohydrate transport and metabolism	M30_T03	3	m30	6403.85616
+G	G: Carbohydrate transport and metabolism	M30_T08	8	m30	2867.819136
+G	G: Carbohydrate transport and metabolism	M30_T16	16	m30	2328.98526
+G	G: Carbohydrate transport and metabolism	M36_T03	3	m36	12482.6472
+G	G: Carbohydrate transport and metabolism	M36_T08	8	m36	9588.440283
+G	G: Carbohydrate transport and metabolism	M36_T16	16	m36	1875.02532
+G	G: Carbohydrate transport and metabolism	M75_T03	3	m75	21398.39208
+G	G: Carbohydrate transport and metabolism	M75_T08	8	m75	10274.8113
+G	G: Carbohydrate transport and metabolism	M75_T16	16	m75	2790.565484
+G	G: Carbohydrate transport and metabolism	M78_T03	3	m78	12233.49877
+G	G: Carbohydrate transport and metabolism	M78_T08	8	m78	4101.986579
+G	G: Carbohydrate transport and metabolism	M78_T16	16	m78	1002.996246
+G	G: Carbohydrate transport and metabolism	FISH_1	Fish	Fish	3813.247968
+G	G: Carbohydrate transport and metabolism	FISH_2	Fish	Fish	2879.532222
+G	G: Carbohydrate transport and metabolism	FISH_3	Fish	Fish	2646.93676
+G	G: Carbohydrate transport and metabolism	FISH_4	Fish	Fish	3614.721946
+G	G: Carbohydrate transport and metabolism	FISH_5	Fish	Fish	2244.068112
+G	G: Carbohydrate transport and metabolism	FISH_6	Fish	Fish	5474.475447
+G	G: Carbohydrate transport and metabolism	T0_AVG	0	T0	2693.77115
+H	H: Coenzyme transport and metabolism	M30_T03	3	m30	2701.035012
+H	H: Coenzyme transport and metabolism	M30_T08	8	m30	1317.13842
+H	H: Coenzyme transport and metabolism	M30_T16	16	m30	836.624208
+H	H: Coenzyme transport and metabolism	M36_T03	3	m36	10225.16363
+H	H: Coenzyme transport and metabolism	M36_T08	8	m36	7600.560651
+H	H: Coenzyme transport and metabolism	M36_T16	16	m36	849.86664
+H	H: Coenzyme transport and metabolism	M75_T03	3	m75	17746.35018
+H	H: Coenzyme transport and metabolism	M75_T08	8	m75	8051.341675
+H	H: Coenzyme transport and metabolism	M75_T16	16	m75	1835.758638
+H	H: Coenzyme transport and metabolism	M78_T03	3	m78	10232.92488
+H	H: Coenzyme transport and metabolism	M78_T08	8	m78	3475.981297
+H	H: Coenzyme transport and metabolism	M78_T16	16	m78	367.524072
+H	H: Coenzyme transport and metabolism	FISH_1	Fish	Fish	2177.034892
+H	H: Coenzyme transport and metabolism	FISH_2	Fish	Fish	1687.416633
+H	H: Coenzyme transport and metabolism	FISH_3	Fish	Fish	623.24997
+H	H: Coenzyme transport and metabolism	FISH_4	Fish	Fish	1085.062946
+H	H: Coenzyme transport and metabolism	FISH_5	Fish	Fish	867.790572
+H	H: Coenzyme transport and metabolism	FISH_6	Fish	Fish	3955.327422
+H	H: Coenzyme transport and metabolism	T0_AVG	0	T0	1948.167361
+I	I: Lipid transport and metabolism	M30_T03	3	m30	2649.813465
+I	I: Lipid transport and metabolism	M30_T08	8	m30	1341.82815
+I	I: Lipid transport and metabolism	M30_T16	16	m30	821.531172
+I	I: Lipid transport and metabolism	M36_T03	3	m36	6476.150433
+I	I: Lipid transport and metabolism	M36_T08	8	m36	4288.0902
+I	I: Lipid transport and metabolism	M36_T16	16	m36	779.102065
+I	I: Lipid transport and metabolism	M75_T03	3	m75	11480.72619
+I	I: Lipid transport and metabolism	M75_T08	8	m75	4502.519125
+I	I: Lipid transport and metabolism	M75_T16	16	m75	1772.609398
+I	I: Lipid transport and metabolism	M78_T03	3	m78	6347.685328
+I	I: Lipid transport and metabolism	M78_T08	8	m78	1979.710093
+I	I: Lipid transport and metabolism	M78_T16	16	m78	483.798558
+I	I: Lipid transport and metabolism	FISH_1	Fish	Fish	1907.17322
+I	I: Lipid transport and metabolism	FISH_2	Fish	Fish	1877.375934
+I	I: Lipid transport and metabolism	FISH_3	Fish	Fish	706.4792
+I	I: Lipid transport and metabolism	FISH_4	Fish	Fish	1179.982078
+I	I: Lipid transport and metabolism	FISH_5	Fish	Fish	828.751044
+I	I: Lipid transport and metabolism	FISH_6	Fish	Fish	1968.935655
+I	I: Lipid transport and metabolism	T0_AVG	0	T0	1318.698639
+J	J: Translation, ribosomal structure and biogenesis	M30_T03	3	m30	38571.60551
+J	J: Translation, ribosomal structure and biogenesis	M30_T08	8	m30	17914.10876
+J	J: Translation, ribosomal structure and biogenesis	M30_T16	16	m30	14691.53282
+J	J: Translation, ribosomal structure and biogenesis	M36_T03	3	m36	31958.4209
+J	J: Translation, ribosomal structure and biogenesis	M36_T08	8	m36	34837.42153
+J	J: Translation, ribosomal structure and biogenesis	M36_T16	16	m36	12930.15353
+J	J: Translation, ribosomal structure and biogenesis	M75_T03	3	m75	31919.75503
+J	J: Translation, ribosomal structure and biogenesis	M75_T08	8	m75	27461.42263
+J	J: Translation, ribosomal structure and biogenesis	M75_T16	16	m75	22070.87537
+J	J: Translation, ribosomal structure and biogenesis	M78_T03	3	m78	24746.37239
+J	J: Translation, ribosomal structure and biogenesis	M78_T08	8	m78	15437.88692
+J	J: Translation, ribosomal structure and biogenesis	M78_T16	16	m78	5617.879152
+J	J: Translation, ribosomal structure and biogenesis	FISH_1	Fish	Fish	36165.95552
+J	J: Translation, ribosomal structure and biogenesis	FISH_2	Fish	Fish	40937.28162
+J	J: Translation, ribosomal structure and biogenesis	FISH_3	Fish	Fish	14446.17653
+J	J: Translation, ribosomal structure and biogenesis	FISH_4	Fish	Fish	23558.63693
+J	J: Translation, ribosomal structure and biogenesis	FISH_5	Fish	Fish	14855.75428
+J	J: Translation, ribosomal structure and biogenesis	FISH_6	Fish	Fish	11958.38437
+J	J: Translation, ribosomal structure and biogenesis	T0_AVG	0	T0	19110.97157
+K	K: Transcription	M30_T03	3	m30	5438.984109
+K	K: Transcription	M30_T08	8	m30	2823.704364
+K	K: Transcription	M30_T16	16	m30	1648.765713
+K	K: Transcription	M36_T03	3	m36	10152.4661
+K	K: Transcription	M36_T08	8	m36	7290.878791
+K	K: Transcription	M36_T16	16	m36	1872.367245
+K	K: Transcription	M75_T03	3	m75	17484.88221
+K	K: Transcription	M75_T08	8	m75	7144.580625
+K	K: Transcription	M75_T16	16	m75	4528.607636
+K	K: Transcription	M78_T03	3	m78	9706.314008
+K	K: Transcription	M78_T08	8	m78	2995.647555
+K	K: Transcription	M78_T16	16	m78	1256.87481
+K	K: Transcription	FISH_1	Fish	Fish	5098.072676
+K	K: Transcription	FISH_2	Fish	Fish	6269.69406
+K	K: Transcription	FISH_3	Fish	Fish	1684.23034
+K	K: Transcription	FISH_4	Fish	Fish	2318.860456
+K	K: Transcription	FISH_5	Fish	Fish	2726.840556
+K	K: Transcription	FISH_6	Fish	Fish	2975.456763
+K	K: Transcription	T0_AVG	0	T0	2349.479971
+L	L: Replication, recombination and repair	M30_T03	3	m30	2414.066616
+L	L: Replication, recombination and repair	M30_T08	8	m30	1394.297853
+L	L: Replication, recombination and repair	M30_T16	16	m30	847.816725
+L	L: Replication, recombination and repair	M36_T03	3	m36	7346.178282
+L	L: Replication, recombination and repair	M36_T08	8	m36	5675.007439
+L	L: Replication, recombination and repair	M36_T16	16	m36	685.076665
+L	L: Replication, recombination and repair	M75_T03	3	m75	12067.00573
+L	L: Replication, recombination and repair	M75_T08	8	m75	5997.924075
+L	L: Replication, recombination and repair	M75_T16	16	m75	1830.694194
+L	L: Replication, recombination and repair	M78_T03	3	m78	7216.178716
+L	L: Replication, recombination and repair	M78_T08	8	m78	2660.226135
+L	L: Replication, recombination and repair	M78_T16	16	m78	393.402462
+L	L: Replication, recombination and repair	FISH_1	Fish	Fish	2609.752008
+L	L: Replication, recombination and repair	FISH_2	Fish	Fish	2380.594356
+L	L: Replication, recombination and repair	FISH_3	Fish	Fish	858.60427
+L	L: Replication, recombination and repair	FISH_4	Fish	Fish	1336.697538
+L	L: Replication, recombination and repair	FISH_5	Fish	Fish	1195.335372
+L	L: Replication, recombination and repair	FISH_6	Fish	Fish	3033.443106
+L	L: Replication, recombination and repair	T0_AVG	0	T0	1746.687633
+M	M: Cell wall/membrane/envelope biogenesis	M30_T03	3	m30	3040.07535
+M	M: Cell wall/membrane/envelope biogenesis	M30_T08	8	m30	1285.801101
+M	M: Cell wall/membrane/envelope biogenesis	M30_T16	16	m30	1309.560546
+M	M: Cell wall/membrane/envelope biogenesis	M36_T03	3	m36	10418.4164
+M	M: Cell wall/membrane/envelope biogenesis	M36_T08	8	m36	6446.571139
+M	M: Cell wall/membrane/envelope biogenesis	M36_T16	16	m36	955.043145
+M	M: Cell wall/membrane/envelope biogenesis	M75_T03	3	m75	16987.97606
+M	M: Cell wall/membrane/envelope biogenesis	M75_T08	8	m75	7451.239575
+M	M: Cell wall/membrane/envelope biogenesis	M75_T16	16	m75	2775.048164
+M	M: Cell wall/membrane/envelope biogenesis	M78_T03	3	m78	10596.72567
+M	M: Cell wall/membrane/envelope biogenesis	M78_T08	8	m78	3233.09435
+M	M: Cell wall/membrane/envelope biogenesis	M78_T16	16	m78	517.589349
+M	M: Cell wall/membrane/envelope biogenesis	FISH_1	Fish	Fish	2012.144208
+M	M: Cell wall/membrane/envelope biogenesis	FISH_2	Fish	Fish	1603.753221
+M	M: Cell wall/membrane/envelope biogenesis	FISH_3	Fish	Fish	808.10708
+M	M: Cell wall/membrane/envelope biogenesis	FISH_4	Fish	Fish	1237.040618
+M	M: Cell wall/membrane/envelope biogenesis	FISH_5	Fish	Fish	1272.080172
+M	M: Cell wall/membrane/envelope biogenesis	FISH_6	Fish	Fish	3280.873836
+M	M: Cell wall/membrane/envelope biogenesis	T0_AVG	0	T0	1697.389347
+N	N: Cell motility	M30_T03	3	m30	537.324684
+N	N: Cell motility	M30_T08	8	m30	233.208651
+N	N: Cell motility	M30_T16	16	m30	278.928468
+N	N: Cell motility	M36_T03	3	m36	2853.865587
+N	N: Cell motility	M36_T08	8	m36	1333.655372
+N	N: Cell motility	M36_T16	16	m36	487.21981
+N	N: Cell motility	M75_T03	3	m75	5945.836249
+N	N: Cell motility	M75_T08	8	m75	1480.53295
+N	N: Cell motility	M75_T16	16	m75	460.770618
+N	N: Cell motility	M78_T03	3	m78	3707.138584
+N	N: Cell motility	M78_T08	8	m78	826.769285
+N	N: Cell motility	M78_T16	16	m78	139.804035
+N	N: Cell motility	FISH_1	Fish	Fish	1134.559872
+N	N: Cell motility	FISH_2	Fish	Fish	868.149576
+N	N: Cell motility	FISH_3	Fish	Fish	1118.67593
+N	N: Cell motility	FISH_4	Fish	Fish	1496.338052
+N	N: Cell motility	FISH_5	Fish	Fish	506.932008
+N	N: Cell motility	FISH_6	Fish	Fish	259.21602
+N	N: Cell motility	T0_AVG	0	T0	607.6939025
+O	O: Posttranslational modification, protein turnover, chaperones	M30_T03	3	m30	4920.104319
+O	O: Posttranslational modification, protein turnover, chaperones	M30_T08	8	m30	3332.927169
+O	O: Posttranslational modification, protein turnover, chaperones	M30_T16	16	m30	1961.602608
+O	O: Posttranslational modification, protein turnover, chaperones	M36_T03	3	m36	8920.964097
+O	O: Posttranslational modification, protein turnover, chaperones	M36_T08	8	m36	7165.868407
+O	O: Posttranslational modification, protein turnover, chaperones	M36_T16	16	m36	1774.217025
+O	O: Posttranslational modification, protein turnover, chaperones	M75_T03	3	m75	13357.8086
+O	O: Posttranslational modification, protein turnover, chaperones	M75_T08	8	m75	5966.718225
+O	O: Posttranslational modification, protein turnover, chaperones	M75_T16	16	m75	3538.841348
+O	O: Posttranslational modification, protein turnover, chaperones	M78_T03	3	m78	8998.78088
+O	O: Posttranslational modification, protein turnover, chaperones	M78_T08	8	m78	3411.584317
+O	O: Posttranslational modification, protein turnover, chaperones	M78_T16	16	m78	1257.015858
+O	O: Posttranslational modification, protein turnover, chaperones	FISH_1	Fish	Fish	2136.310576
+O	O: Posttranslational modification, protein turnover, chaperones	FISH_2	Fish	Fish	1930.32168
+O	O: Posttranslational modification, protein turnover, chaperones	FISH_3	Fish	Fish	537.17361
+O	O: Posttranslational modification, protein turnover, chaperones	FISH_4	Fish	Fish	900.25793
+O	O: Posttranslational modification, protein turnover, chaperones	FISH_5	Fish	Fish	966.954384
+O	O: Posttranslational modification, protein turnover, chaperones	FISH_6	Fish	Fish	2432.440095
+O	O: Posttranslational modification, protein turnover, chaperones	T0_AVG	0	T0	1825.990789
+P	P: Inorganic ion transport and metabolism	M30_T03	3	m30	6790.404075
+P	P: Inorganic ion transport and metabolism	M30_T08	8	m30	2953.278276
+P	P: Inorganic ion transport and metabolism	M30_T16	16	m30	1259.680989
+P	P: Inorganic ion transport and metabolism	M36_T03	3	m36	11324.31419
+P	P: Inorganic ion transport and metabolism	M36_T08	8	m36	7037.404473
+P	P: Inorganic ion transport and metabolism	M36_T16	16	m36	1329.675865
+P	P: Inorganic ion transport and metabolism	M75_T03	3	m75	18573.74307
+P	P: Inorganic ion transport and metabolism	M75_T08	8	m75	7593.001
+P	P: Inorganic ion transport and metabolism	M75_T16	16	m75	3366.445628
+P	P: Inorganic ion transport and metabolism	M78_T03	3	m78	11373.65558
+P	P: Inorganic ion transport and metabolism	M78_T08	8	m78	3383.29935
+P	P: Inorganic ion transport and metabolism	M78_T16	16	m78	722.539929
+P	P: Inorganic ion transport and metabolism	FISH_1	Fish	Fish	1889.449904
+P	P: Inorganic ion transport and metabolism	FISH_2	Fish	Fish	1884.454257
+P	P: Inorganic ion transport and metabolism	FISH_3	Fish	Fish	605.41061
+P	P: Inorganic ion transport and metabolism	FISH_4	Fish	Fish	1096.91263
+P	P: Inorganic ion transport and metabolism	FISH_5	Fish	Fish	1190.351976
+P	P: Inorganic ion transport and metabolism	FISH_6	Fish	Fish	3063.844929
+P	P: Inorganic ion transport and metabolism	T0_AVG	0	T0	1721.913856
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M30_T03	3	m30	358.082244
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M30_T08	8	m30	185.159169
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M30_T16	16	m30	102.840927
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M36_T03	3	m36	1584.961407
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M36_T08	8	m36	998.494439
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M36_T16	16	m36	125.886005
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M75_T03	3	m75	2982.848166
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M75_T08	8	m75	1030.228225
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M75_T16	16	m75	437.523058
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M78_T03	3	m78	1704.790288
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M78_T08	8	m78	437.375112
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	M78_T16	16	m78	65.207274
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	FISH_1	Fish	Fish	288.730856
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	FISH_2	Fish	Fish	215.804946
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	FISH_3	Fish	Fish	122.35962
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	FISH_4	Fish	Fish	190.672504
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	FISH_5	Fish	Fish	191.781744
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	FISH_6	Fish	Fish	409.258908
+Q	Q: Secondary metabolites biosynthesis, transport and catabolism	T0_AVG	0	T0	315.6105878
+R	R: General function prediction only	M30_T03	3	m30	2057.251287
+R	R: General function prediction only	M30_T08	8	m30	1021.818876
+R	R: General function prediction only	M30_T16	16	m30	592.227741
+R	R: General function prediction only	M36_T03	3	m36	6658.510596
+R	R: General function prediction only	M36_T08	8	m36	4623.791512
+R	R: General function prediction only	M36_T16	16	m36	558.654775
+R	R: General function prediction only	M75_T03	3	m75	11932.24907
+R	R: General function prediction only	M75_T08	8	m75	5006.5743
+R	R: General function prediction only	M75_T16	16	m75	1251.562802
+R	R: General function prediction only	M78_T03	3	m78	6959.5295
+R	R: General function prediction only	M78_T08	8	m78	1979.199396
+R	R: General function prediction only	M78_T16	16	m78	533.898024
+R	R: General function prediction only	FISH_1	Fish	Fish	1349.57322
+R	R: General function prediction only	FISH_2	Fish	Fish	1324.46895
+R	R: General function prediction only	FISH_3	Fish	Fish	549.64632
+R	R: General function prediction only	FISH_4	Fish	Fish	648.89099
+R	R: General function prediction only	FISH_5	Fish	Fish	703.097736
+R	R: General function prediction only	FISH_6	Fish	Fish	2693.785314
+R	R: General function prediction only	T0_AVG	0	T0	1146.159375
+S	S: Function unknown	M30_T03	3	m30	821.207361
+S	S: Function unknown	M30_T08	8	m30	284.645205
+S	S: Function unknown	M30_T16	16	m30	160.481223
+S	S: Function unknown	M36_T03	3	m36	1674.263031
+S	S: Function unknown	M36_T08	8	m36	668.542272
+S	S: Function unknown	M36_T16	16	m36	137.901785
+S	S: Function unknown	M75_T03	3	m75	2745.757494
+S	S: Function unknown	M75_T08	8	m75	763.0688
+S	S: Function unknown	M75_T16	16	m75	415.020102
+S	S: Function unknown	M78_T03	3	m78	2607.001712
+S	S: Function unknown	M78_T08	8	m78	744.96218
+S	S: Function unknown	M78_T16	16	m78	216.718293
+S	S: Function unknown	FISH_1	Fish	Fish	169.055956
+S	S: Function unknown	FISH_2	Fish	Fish	157.445232
+S	S: Function unknown	FISH_3	Fish	Fish	33.5212
+S	S: Function unknown	FISH_4	Fish	Fish	47.02159
+S	S: Function unknown	FISH_5	Fish	Fish	426.475368
+S	S: Function unknown	FISH_6	Fish	Fish	209.829468
+S	S: Function unknown	T0_AVG	0	T0	126.4056103
+T	T: Signal transduction mechanisms	M30_T03	3	m30	2453.16396
+T	T: Signal transduction mechanisms	M30_T08	8	m30	1140.449232
+T	T: Signal transduction mechanisms	M30_T16	16	m30	648.631494
+T	T: Signal transduction mechanisms	M36_T03	3	m36	7394.73825
+T	T: Signal transduction mechanisms	M36_T08	8	m36	4167.488171
+T	T: Signal transduction mechanisms	M36_T16	16	m36	813.479835
+T	T: Signal transduction mechanisms	M75_T03	3	m75	13906.03856
+T	T: Signal transduction mechanisms	M75_T08	8	m75	4729.92975
+T	T: Signal transduction mechanisms	M75_T16	16	m75	2044.284704
+T	T: Signal transduction mechanisms	M78_T03	3	m78	8149.171544
+T	T: Signal transduction mechanisms	M78_T08	8	m78	2246.039944
+T	T: Signal transduction mechanisms	M78_T16	16	m78	661.250655
+T	T: Signal transduction mechanisms	FISH_1	Fish	Fish	1304.789576
+T	T: Signal transduction mechanisms	FISH_2	Fish	Fish	1078.147161
+T	T: Signal transduction mechanisms	FISH_3	Fish	Fish	704.51716
+T	T: Signal transduction mechanisms	FISH_4	Fish	Fish	976.29543
+T	T: Signal transduction mechanisms	FISH_5	Fish	Fish	982.586748
+T	T: Signal transduction mechanisms	FISH_6	Fish	Fish	1829.17962
+T	T: Signal transduction mechanisms	T0_AVG	0	T0	1062.618083
+U	U: Intracellular trafficking, secretion, and vesicular transport	M30_T03	3	m30	1476.580755
+U	U: Intracellular trafficking, secretion, and vesicular transport	M30_T08	8	m30	517.225683
+U	U: Intracellular trafficking, secretion, and vesicular transport	M30_T16	16	m30	290.507007
+U	U: Intracellular trafficking, secretion, and vesicular transport	M36_T03	3	m36	2593.666074
+U	U: Intracellular trafficking, secretion, and vesicular transport	M36_T08	8	m36	2233.142627
+U	U: Intracellular trafficking, secretion, and vesicular transport	M36_T16	16	m36	332.259375
+U	U: Intracellular trafficking, secretion, and vesicular transport	M75_T03	3	m75	4451.378573
+U	U: Intracellular trafficking, secretion, and vesicular transport	M75_T08	8	m75	1702.087725
+U	U: Intracellular trafficking, secretion, and vesicular transport	M75_T16	16	m75	865.505522
+U	U: Intracellular trafficking, secretion, and vesicular transport	M78_T03	3	m78	2670.551848
+U	U: Intracellular trafficking, secretion, and vesicular transport	M78_T08	8	m78	921.444862
+U	U: Intracellular trafficking, secretion, and vesicular transport	M78_T16	16	m78	110.013522
+U	U: Intracellular trafficking, secretion, and vesicular transport	FISH_1	Fish	Fish	1123.544484
+U	U: Intracellular trafficking, secretion, and vesicular transport	FISH_2	Fish	Fish	1071.709821
+U	U: Intracellular trafficking, secretion, and vesicular transport	FISH_3	Fish	Fish	460.54002
+U	U: Intracellular trafficking, secretion, and vesicular transport	FISH_4	Fish	Fish	710.124206
+U	U: Intracellular trafficking, secretion, and vesicular transport	FISH_5	Fish	Fish	688.190184
+U	U: Intracellular trafficking, secretion, and vesicular transport	FISH_6	Fish	Fish	583.806447
+U	U: Intracellular trafficking, secretion, and vesicular transport	T0_AVG	0	T0	807.577065
+V	V: Defense mechanisms	M30_T03	3	m30	3033.86226
+V	V: Defense mechanisms	M30_T08	8	m30	1143.831702
+V	V: Defense mechanisms	M30_T16	16	m30	800.940504
+V	V: Defense mechanisms	M36_T03	3	m36	5141.983974
+V	V: Defense mechanisms	M36_T08	8	m36	2891.405509
+V	V: Defense mechanisms	M36_T16	16	m36	814.389345
+V	V: Defense mechanisms	M75_T03	3	m75	8103.263662
+V	V: Defense mechanisms	M75_T08	8	m75	3577.31595
+V	V: Defense mechanisms	M75_T16	16	m75	2266.205116
+V	V: Defense mechanisms	M78_T03	3	m78	5308.153088
+V	V: Defense mechanisms	M78_T08	8	m78	1713.768044
+V	V: Defense mechanisms	M78_T16	16	m78	609.926814
+V	V: Defense mechanisms	FISH_1	Fish	Fish	1241.892296
+V	V: Defense mechanisms	FISH_2	Fish	Fish	1496.502735
+V	V: Defense mechanisms	FISH_3	Fish	Fish	331.58657
+V	V: Defense mechanisms	FISH_4	Fish	Fish	436.60298
+V	V: Defense mechanisms	FISH_5	Fish	Fish	544.541976
+V	V: Defense mechanisms	FISH_6	Fish	Fish	1650.538164
+V	V: Defense mechanisms	T0_AVG	0	T0	1013.431054
+W	W: Extracellular structures	M30_T03	3	m30	142.953135
+W	W: Extracellular structures	M30_T08	8	m30	22.927164
+W	W: Extracellular structures	M30_T16	16	m30	22.675611
+W	W: Extracellular structures	M36_T03	3	m36	509.781444
+W	W: Extracellular structures	M36_T08	8	m36	222.904306
+W	W: Extracellular structures	M36_T16	16	m36	33.747945
+W	W: Extracellular structures	M75_T03	3	m75	1095.374344
+W	W: Extracellular structures	M75_T08	8	m75	297.849825
+W	W: Extracellular structures	M75_T16	16	m75	83.603114
+W	W: Extracellular structures	M78_T03	3	m78	682.860096
+W	W: Extracellular structures	M78_T08	8	m78	162.215938
+W	W: Extracellular structures	M78_T16	16	m78	7.324701
+W	W: Extracellular structures	FISH_1	Fish	Fish	58.779404
+W	W: Extracellular structures	FISH_2	Fish	Fish	29.207367
+W	W: Extracellular structures	FISH_3	Fish	Fish	75.57293
+W	W: Extracellular structures	FISH_4	Fish	Fish	120.811856
+W	W: Extracellular structures	FISH_5	Fish	Fish	73.401636
+W	W: Extracellular structures	FISH_6	Fish	Fish	88.557174
+W	W: Extracellular structures	T0_AVG	0	T0	95.5233285
+X	X: Mobilome: prophages, transposons	M30_T03	3	m30	187.01748
+X	X: Mobilome: prophages, transposons	M30_T08	8	m30	163.918638
+X	X: Mobilome: prophages, transposons	M30_T16	16	m30	42.97146
+X	X: Mobilome: prophages, transposons	M36_T03	3	m36	381.992313
+X	X: Mobilome: prophages, transposons	M36_T08	8	m36	416.465626
+X	X: Mobilome: prophages, transposons	M36_T16	16	m36	25.77799
+X	X: Mobilome: prophages, transposons	M75_T03	3	m75	609.788379
+X	X: Mobilome: prophages, transposons	M75_T08	8	m75	420.5734
+X	X: Mobilome: prophages, transposons	M75_T16	16	m75	87.525074
+X	X: Mobilome: prophages, transposons	M78_T03	3	m78	392.302096
+X	X: Mobilome: prophages, transposons	M78_T08	8	m78	162.592816
+X	X: Mobilome: prophages, transposons	M78_T16	16	m78	9.093678
+X	X: Mobilome: prophages, transposons	FISH_1	Fish	Fish	232.792424
+X	X: Mobilome: prophages, transposons	FISH_2	Fish	Fish	245.980665
+X	X: Mobilome: prophages, transposons	FISH_3	Fish	Fish	121.81662
+X	X: Mobilome: prophages, transposons	FISH_4	Fish	Fish	238.026052
+X	X: Mobilome: prophages, transposons	FISH_5	Fish	Fish	90.746964
+X	X: Mobilome: prophages, transposons	FISH_6	Fish	Fish	288.145059
+X	X: Mobilome: prophages, transposons	T0_AVG	0	T0	129.5453458
+Z	Z: Cytoskeleton	M30_T03	3	m30	116.413869
+Z	Z: Cytoskeleton	M30_T08	8	m30	46.100535
+Z	Z: Cytoskeleton	M30_T16	16	m30	22.925889
+Z	Z: Cytoskeleton	M36_T03	3	m36	152.241
+Z	Z: Cytoskeleton	M36_T08	8	m36	155.6129
+Z	Z: Cytoskeleton	M36_T16	16	m36	18.66844
+Z	Z: Cytoskeleton	M75_T03	3	m75	260.430642
+Z	Z: Cytoskeleton	M75_T08	8	m75	205.49555
+Z	Z: Cytoskeleton	M75_T16	16	m75	38.486364
+Z	Z: Cytoskeleton	M78_T03	3	m78	141.326524
+Z	Z: Cytoskeleton	M78_T08	8	m78	68.463439
+Z	Z: Cytoskeleton	M78_T16	16	m78	9.742107
+Z	Z: Cytoskeleton	FISH_1	Fish	Fish	71.464804
+Z	Z: Cytoskeleton	FISH_2	Fish	Fish	50.406573
+Z	Z: Cytoskeleton	FISH_3	Fish	Fish	22.71007
+Z	Z: Cytoskeleton	FISH_4	Fish	Fish	36.131282
+Z	Z: Cytoskeleton	FISH_5	Fish	Fish	25.09254
+Z	Z: Cytoskeleton	FISH_6	Fish	Fish	141.575889
+Z	Z: Cytoskeleton	T0_AVG	0	T0	55.2948635
